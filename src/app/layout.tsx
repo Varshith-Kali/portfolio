@@ -41,13 +41,13 @@ export const metadata: Metadata = {
   authors: [{ name: "Varshith Puli" }],
   creator: "Varshith Puli",
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/favicon.svg",
   },
   openGraph: {
     title: "Varshith Puli — AI Security Engineer",
     description:
       "Building secure intelligence. AI red teaming, secure agent systems, and GenAI platform security.",
-    url: "https://chat.z.ai",
+    url: "https://varshith-kali.github.io/portfolio",
     siteName: "Varshith Puli",
     type: "website",
   },
